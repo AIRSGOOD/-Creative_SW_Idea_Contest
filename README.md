@@ -1,1 +1,2 @@
-# -Creative_SW_Idea_Contest
+# 창작 SW 아이디어 공모전 대회 자료
+
